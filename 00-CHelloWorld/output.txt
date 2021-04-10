@@ -1,0 +1,3 @@
+[Running] cd "c:\Users\Aylu\Desktop\Facultad\Trabajos\" && gcc Helloworld.c -o Helloworld && "c:\Users\Aylu\Desktop\Facultad\Trabajos\"Helloworld
+Hello world!
+[Done] exited with code=12 in 1.145 seconds
