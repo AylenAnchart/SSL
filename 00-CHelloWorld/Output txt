@@ -1,0 +1,4 @@
+C:\tps\SSL>hello.exe > salida.txt
+
+C:\tps\SSL>type .\salida.txt
+Hello, World!
